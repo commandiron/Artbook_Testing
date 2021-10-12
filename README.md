@@ -1,4 +1,4 @@
-# Artbook_Testing
+# Simple_ArtbookApp_by_command
 
 Simple Artbook App for android devices. 
 
